@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------
-EXE            :=kpi_adder
+EXE            :=kpi_adder_2
 SRCS           :=main.cpp kernel.knucpp
 # Useful KNUCC Flags:
 # -v                   Run in verbose mode to display individual steps
