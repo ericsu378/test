@@ -25,6 +25,9 @@ LDLIBS         :=-lkpirt -lism -llfi
 
 all: $(EXE)
 
+run:
+	./$(EXE)	
+
 clean:
 	rm -rf $(EXE) $(OBJS) $(TEMPFILES)
 
